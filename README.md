@@ -1,8 +1,5 @@
 # ma crossover backtest
 
-A 50/200 day moving-average crossover on SPY, 2010 to 2024, tested against a
-buy and hold benchmark using daily prices from Yahoo Finance.
-
 ## Results
 
 ```
